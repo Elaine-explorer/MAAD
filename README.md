@@ -71,6 +71,8 @@ python generate_main.py \
   --n 25 \
   --batch_size 25 \
   --max_len 20 \
+  --tau 0.1\
+  --temperature 1.0
   --overwrite
 ```
 
