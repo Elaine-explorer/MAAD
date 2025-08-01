@@ -1,7 +1,7 @@
 # From Chaos to Cure: A Prefix Heuristics Guided Model-Agnostic Adaptive Detoxification Framework
 
 # Folder Structure
-\begin{verbatim}
+```bash
 MAAD-Detoxifier/
 ├── Antidote/
 │   ├── constructAntidote.py
@@ -29,7 +29,8 @@ MAAD-Detoxifier/
 │   └── trainDetoxifier.py
 │
 └── requirements.txt
-\end{verbatim}
+```
+
 
 # Reproduce the Environment
 To reproduce our results, first set up a clean Python environment using conda. We recommend Python 3.10 for compatibility with all dependencies. After activating the environment, install the required packages from requirements.txt:
